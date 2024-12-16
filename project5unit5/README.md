@@ -1,4 +1,4 @@
-# Android Project 5 - *Bitlife*
+# Android Project 5 - *BitLIFE*
 
 Submitted by: **Pooja Loganathan**
 
